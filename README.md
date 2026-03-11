@@ -11,24 +11,22 @@ iv) Rotate and display the video
 Anaconda - Python 3.7
 ## Algorithm
 ### Step 1:
-<br>
+Import the required libraries such as OpenCV, Matplotlib, time, and clear_output.
 
 ### Step 2:
-<br>
-
+Access the web camera using cv2.VideoCapture(0).
 ### Step 3:
-<br>
-
+Capture a frame from the webcam and save the frame as a JPG file using cv2.imwrite().
 ### Step 4:
-<br>
+Read frames continuously from the webcam and display the video frames using Matplotlib.
 
 ### Step 5:
-<br>
+Apply image manipulations such as resizing the frame and rotating the frame using OpenCV functions like cv2.resize() and cv2.rotate() and display the processed video.
 
 ## Program:
 ``` Python
-### Developed By:
-### Register No:
+### Developed By:Rithika L
+### Register No:212224230231
 
 ## i) Write the frame as JPG file
 
