@@ -24,7 +24,7 @@ Read frames continuously from the webcam and display the video frames using Matp
 Apply image manipulations such as resizing the frame and rotating the frame using OpenCV functions like cv2.resize() and cv2.rotate() and display the processed video.
 
 ## Program:
-``` Python
+
 ### Developed By:Rithika L
 ### Register No:212224230231
 
